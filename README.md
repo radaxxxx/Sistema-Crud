@@ -31,6 +31,11 @@ Siga o menu interativo para realizar as operações desejadas.
 - `sorted()` com `lambda` para ordenar alunos por nota
 - List comprehension para filtrar alunos por situação
 - `enumerate()` para numeração na listagem
+ 👥 Autores
+
+Ryan Porto Antunes, João Manoel de Sousa Morais
+
+
 
 
 
